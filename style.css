@@ -47,7 +47,7 @@
     margin: 0;
 }
 
-h2{
+.data1{
     border-top: 1px solid gray ;
     border-bottom-left-radius: 12px;
     border-bottom-right-radius: 12px;
@@ -68,4 +68,29 @@ img{
     width: 120px;
     margin: 17pxs;
 
+}
+
+.card2-container{
+    display: flex;
+    justify-content: center;
+}
+
+.card2{
+    
+    display: flex;
+    width: 47%;
+    border: 1px solid gray;
+    border-radius: 12px;
+    margin: 15px;
+}
+
+.img2{
+    height: 120px;
+    width: 120px;
+    margin: 17pxs;
+}
+
+.card2-info{
+    padding-left: 40px;
+    margin: 0;
 }
